@@ -1,3 +1,4 @@
+<?php
 /**
  *Función que devuelve miliseconos para un ping o falso si no existe ip o dominio
  *
